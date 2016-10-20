@@ -1,0 +1,12 @@
+* TODO
+- What is this
+** Input for SVM - DONE 
+** Training Data for Non Disaster articles - DONE
+** SVM Train and Predict Functions, dump final model to a pickle - DONE
+** RSS parser of current news events
+** Python to JS. Maybe user files
+* Ganesh's TODO
+** Arduino HTTP requests and responses - DONE
+** Python Setup
+** Server to Python
+** Javascript to Python
